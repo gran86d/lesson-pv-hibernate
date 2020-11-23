@@ -1,0 +1,19 @@
+# Maven
+target
+lib
+.run
+
+# IntelliJ
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Misc
+*.log
+
+# pass
+src/main/resources/hibernate.cfg.xml
+
+#git
+.git
